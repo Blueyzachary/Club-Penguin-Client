@@ -43,14 +43,14 @@ function createWindow () {
 
   mainWindow.setMenu(null);
   clearCache();
-  mainWindow.loadURL('https://waddlepenguins.tk/launcher/');
+  mainWindow.loadURL('https://play.cpps.picpps.com/');
 
   // RICH PRESENCE START
   const clientId = '796476157415522354'; DiscordRPC.register(clientId); const rpc = new DiscordRPC.Client({ transport: 'ipc' }); const startTimestamp = new Date();
   rpc.on('ready', () => {
     rpc.setActivity({
-      details: `waddlepenguins.tk`, 
-      state: `Client - Made by AltoDev.`, 
+      details: `CPPS.PiCPPS.com`, 
+      state: `Client - Made by Blueyzachary.`, 
       startTimestamp, 
       largeImageKey: `main-logo`//, 
       //largeImageText: "LARGE IMAGE TEXT", 
