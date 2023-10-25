@@ -9,15 +9,6 @@
     "build-mac": "electron-builder build --mac --publish never",
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
-  "bugs": {
-<<<<<<< HEAD
-    "url": "https://github.com/Bluezachary/Club-Penguin-Client/issues"
-  },
-  "homepage": "https://github.com/Bluezachary/Club-Penguin-Client#readme",
-  "repository": "https://github.com/Bluezachary/Club-Penguin-Client",
-=======
-    "url": "https://github.com/cozy-penguin/client/issues"
-  },
   "homepage": "https://github.com/cozy-penguin/client#readme",
   "repository": "https://github.com/cozy-penguin/client",
 >>>>>>> parent of 176b50a (Added all files.)
