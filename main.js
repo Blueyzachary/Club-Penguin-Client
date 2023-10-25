@@ -43,7 +43,7 @@ function createWindow () {
 
   mainWindow.setMenu(null);
   clearCache();
-  mainWindow.loadURL('https://play.cpps.picpps.com/');
+  mainWindow.loadURL('https://desktop.cpps.picpps.com/');
 
   // RICH PRESENCE START
   const clientId = '1166572170734993518'; DiscordRPC.register(clientId); const rpc = new DiscordRPC.Client({ transport: 'ipc' }); const startTimestamp = new Date();
