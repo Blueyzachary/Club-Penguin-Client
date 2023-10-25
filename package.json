@@ -1,7 +1,7 @@
 {
-  "name": "waddlepenguins",
-  "version": "1.0.0",
-  "description": "Desktop client for waddlepenguins.tk - Created by AltoDev.",
+  "name": "picpps",
+  "version": "1.0.1",
+  "description": "Desktop client for PiCPPS CPPS - Created by Blueyzachary.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -11,17 +11,17 @@
   },
   "bugs": {
 <<<<<<< HEAD
-    "url": "https://github.com/WaddlePenguins/waddlepenguins_app/issues"
+    "url": "https://github.com/Bluezachary/Club-Penguin-Client/issues"
   },
-  "homepage": "https://github.com/WaddlePenguins/waddlepenguins_app#readme",
-  "repository": "https://github.com/WaddlePenguins/waddlepenguins_app",
+  "homepage": "https://github.com/Bluezachary/Club-Penguin-Client#readme",
+  "repository": "https://github.com/Bluezachary/Club-Penguin-Client",
 =======
     "url": "https://github.com/cozy-penguin/client/issues"
   },
   "homepage": "https://github.com/cozy-penguin/client#readme",
   "repository": "https://github.com/cozy-penguin/client",
 >>>>>>> parent of 176b50a (Added all files.)
-  "author": "Waddle Penguins / AltoDev (the original version)",
+  "author": "PiCPPS / Blueyzachary",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^6.1.2",
@@ -34,8 +34,8 @@
     "electron-updater": "^4.2.0"
   },
   "build": {
-    "appId": "com.waddlepenguins.desktop",
-    "productName": "Waddle Penguins Desktop",
+    "appId": "com.picpps.desktop",
+    "productName": "PiCPPS Desktop",
     "asar": "false",
     "win": {
       "publish": "github"
