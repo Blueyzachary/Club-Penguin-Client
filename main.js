@@ -32,7 +32,7 @@ function clearCache() {
 function createWindow () {
   mainWindow = new BrowserWindow({
     width: 1280,
-    height: 720,
+    height: 1080,
     title: "Connecting...",
     icon: __dirname + '/favicon.ico',
     webPreferences: {
