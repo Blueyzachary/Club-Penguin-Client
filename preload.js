@@ -12,7 +12,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 */
 
-function redirect(){window.location.href = 'https://play.cpps.picpps.com';}
+function redirect(){window.location.href = 'https://play.clubpenguin.picpps.com';}
 window.addEventListener('DOMContentLoaded', () => {
   var url = window.location.href;
     if(url.includes('picpps') == false){redirect();}
