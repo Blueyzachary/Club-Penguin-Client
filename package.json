@@ -1,7 +1,7 @@
 {
   "name": "picpps",
   "version": "1.0.1",
-  "description": "Desktop client for PiCPPS CPPS - Created by Blueyzachary.",
+  "description": "Desktop client for PiCPPS CPPS - Created by Blueyzachary",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -11,7 +11,6 @@
   },
   "homepage": "https://github.com/cozy-penguin/client#readme",
   "repository": "https://github.com/cozy-penguin/client",
->>>>>>> parent of 176b50a (Added all files.)
   "author": "PiCPPS / Blueyzachary",
   "license": "CC0-1.0",
   "devDependencies": {
